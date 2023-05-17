@@ -25,4 +25,4 @@ jobs:
         server: ftp.santambrogioa.altervista.org
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        local-dir: ./github-flow-parte-2-main/
+        local-dir: ./github-flow-parte-2-main/pet-shop/
